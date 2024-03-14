@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className="rectangle">
-        <header className="parallaxLogo">
+        <header>
           <img src={"./parallax_logo.png"} className="App-logo" alt="Parallax Logo"/>
         </header>
         <SplitPane />

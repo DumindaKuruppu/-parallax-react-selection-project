@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone",
+    "brand": "Samsung",
+    "price": 599.99,
+    "quantity": 100,
+    "photos": [
+      "https://placehold.co/600x400/orange/white?text=SAMPLE\\nIMAGE_01.png",
+      "https://placehold.co/600x400/cyan/white?text=SAMPLE\\nIMAGE_02.png",
+      "https://placehold.co/600x400/black/white?text=SAMPLE\\nIMAGE_03.png"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "brand": "Apple",
+    "price": 1299.99,
+    "quantity": 50,
+    "photos": [
+      "https://placehold.co/600x400/orange/white?text=SAMPLE\\nIMAGE_01.png",
+      "https://placehold.co/600x400/black/white?text=SAMPLE\\nIMAGE_03.png",
+      "https://placehold.co/600x400/cyan/white?text=SAMPLE\\nIMAGE_02.png"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "brand": "Sony",
+    "price": 199.99,
+    "quantity": 75,
+    "photos": [
+      "https://placehold.co/600x400/cyan/white?text=SAMPLE\\nIMAGE_02.png",
+      "https://placehold.co/600x400/orange/white?text=SAMPLE\\nIMAGE_01.png",
+      "https://placehold.co/600x400/black/white?text=SAMPLE\\nIMAGE_03.png"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "brand": "Fitbit",
+    "price": 149.99,
+    "quantity": 40,
+    "photos": [
+      "https://placehold.co/600x400/orange/white?text=SAMPLE\\nIMAGE_01.png",
+      "https://placehold.co/600x400/cyan/white?text=SAMPLE\\nIMAGE_02.png",
+      "https://placehold.co/600x400/black/white?text=SAMPLE\\nIMAGE_03.png"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Tablet",
+    "brand": "Amazon",
+    "price": 329.99,
+    "quantity": 60,
+    "photos": [
+      "https://placehold.co/600x400/cyan/white?text=SAMPLE\\nIMAGE_02.png",
+      "https://placehold.co/600x400/orange/white?text=SAMPLE\\nIMAGE_01.png",
+      "https://placehold.co/600x400/black/white?text=SAMPLE\\nIMAGE_03.png"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Bluetooth Speaker",
+    "brand": "JBL",
+    "price": 79.99,
+    "quantity": 80,
+    "photos": [
+      "https://placehold.co/600x400/cyan/white?text=SAMPLE\\nIMAGE_02.png",
+      "https://placehold.co/600x400/orange/white?text=SAMPLE\\nIMAGE_01.png",
+      "https://placehold.co/600x400/black/white?text=SAMPLE\\nIMAGE_03.png"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Gaming Console",
+    "brand": "Microsoft",
+    "price": 499.99,
+    "quantity": 30,
+    "photos": [
+      "https://placehold.co/600x400/orange/white?text=SAMPLE\\nIMAGE_01.png",
+      "https://placehold.co/600x400/cyan/white?text=SAMPLE\\nIMAGE_02.png",
+      "https://placehold.co/600x400/black/white?text=SAMPLE\\nIMAGE_03.png"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Wireless Mouse",
+    "brand": "Logitech",
+    "price": 29.99,
+    "quantity": 90,
+    "photos": [
+      "https://placehold.co/600x400/orange/white?text=SAMPLE\\nIMAGE_01.png",
+      "https://placehold.co/600x400/cyan/white?text=SAMPLE\\nIMAGE_02.png",
+      "https://placehold.co/600x400/black/white?text=SAMPLE\\nIMAGE_03.png"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "External Hard Drive",
+    "brand": "Seagate",
+    "price": 89.99,
+    "quantity": 65,
+    "photos": [
+      "https://placehold.co/600x400/cyan/white?text=SAMPLE\\nIMAGE_02.png",
+      "https://placehold.co/600x400/orange/white?text=SAMPLE\\nIMAGE_01.png",
+      "https://placehold.co/600x400/black/white?text=SAMPLE\\nIMAGE_03.png"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Camera",
+    "brand": "Canon",
+    "price": 699.99,
+    "quantity": 25,
+    "photos": [
+      "https://placehold.co/600x400/orange/white?text=SAMPLE\\nIMAGE_01.png",
+      "https://placehold.co/600x400/cyan/white?text=SAMPLE\\nIMAGE_02.png",
+      "https://placehold.co/600x400/black/white?text=SAMPLE\\nIMAGE_03.png"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Fitness Tracker",
+    "brand": "Garmin",
+    "price": 129.99,
+    "quantity": 55,
+    "photos": [
+      "https://placehold.co/600x400/orange/white?text=SAMPLE\\nIMAGE_01.png",
+      "https://placehold.co/600x400/cyan/white?text=SAMPLE\\nIMAGE_02.png",
+      "https://placehold.co/600x400/black/white?text=SAMPLE\\nIMAGE_03.png"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Printer",
+    "brand": "Epson",
+    "price": 179.99,
+    "quantity": 45,
+    "photos": [
+      "https://placehold.co/600x400/orange/white?text=SAMPLE\\nIMAGE_01.png",
+      "https://placehold.co/600x400/cyan/white?text=SAMPLE\\nIMAGE_02.png",
+      "https://placehold.co/600x400/black/white?text=SAMPLE\\nIMAGE_03.png"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Toothbrush",
+    "brand": "Philips",
+    "price": 59.99,
+    "quantity": 70,
+    "photos": [
+      "https://placehold.co/600x400/orange/white?text=SAMPLE\\nIMAGE_01.png",
+      "https://placehold.co/600x400/cyan/white?text=SAMPLE\\nIMAGE_02.png",
+      "https://placehold.co/600x400/black/white?text=SAMPLE\\nIMAGE_03.png"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Air Purifier",
+    "brand": "Dyson",
+    "price": 399.99,
+    "quantity": 35,
+    "photos": [
+      "https://placehold.co/600x400/orange/white?text=SAMPLE\\nIMAGE_01.png",
+      "https://placehold.co/600x400/cyan/white?text=SAMPLE\\nIMAGE_02.png",
+      "https://placehold.co/600x400/black/white?text=SAMPLE\\nIMAGE_03.png"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Rice Cooker",
+    "brand": "Zojirushi",
+    "price": 129.99,
+    "quantity": 85,
+    "photos": [
+      "https://placehold.co/600x400/orange/white?text=SAMPLE\\nIMAGE_01.png",
+      "https://placehold.co/600x400/cyan/white?text=SAMPLE\\nIMAGE_02.png",
+      "https://placehold.co/600x400/black/white?text=SAMPLE\\nIMAGE_03.png"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Coffee Maker",
+    "brand": "Keurig",
+    "price": 99.99,
+    "quantity": 95,
+    "photos": [
+      "https://placehold.co/600x400/cyan/white?text=SAMPLE\\nIMAGE_02.png",
+      "https://placehold.co/600x400/orange/white?text=SAMPLE\\nIMAGE_01.png",
+      "https://placehold.co/600x400/black/white?text=SAMPLE\\nIMAGE_03.png"
+    ]
+  },
+    {
+        "id": 17,
+        "name": "Blender",
+        "brand": "Vitamix",
+        "price": 299.99,
+        "quantity": 75,
+        "photos": [
+        "https://placehold.co/600x400/orange/white?text=SAMPLE\\nIMAGE_01.png",
+        "https://placehold.co/600x400/cyan/white?text=SAMPLE\\nIMAGE_02.png",
+        "https://placehold.co/600x400/black/white?text=SAMPLE\\nIMAGE_03.png"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Vacuum Cleaner",
+        "brand": "Dyson",
+        "price": 399.99,
+        "quantity": 55,
+        "photos": [
+        "https://placehold.co/600x400/cyan/white?text=SAMPLE\\nIMAGE_02.png",
+        "https://placehold.co/600x400/orange/white?text=SAMPLE\\nIMAGE_01.png",
+        "https://placehold.co/600x400/black/white?text=SAMPLE\\nIMAGE_03.png"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Microwave",
+        "brand": "Panasonic",
+        "price": 199.99,
+        "quantity": 65,
+        "photos": [
+        "https://placehold.co/600x400/orange/white?text=SAMPLE\\nIMAGE_01.png",
+        "https://placehold.co/600x400/cyan/white?text=SAMPLE\\nIMAGE_02.png",
+        "https://placehold.co/600x400/black/white?text=SAMPLE\\nIMAGE_03.png"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Toaster",
+        "brand": "Cuisinart",
+        "price": 49.99,
+        "quantity": 85,
+        "photos": [
+        "https://placehold.co/600x400/cyan/white?text=SAMPLE\\nIMAGE_02.png",
+        "https://placehold.co/600x400/orange/white?text=SAMPLE\\nIMAGE_01.png",
+        "https://placehold.co/600x400/black/white?text=SAMPLE\\nIMAGE_03.png"
+        ]
+    }
+]
