@@ -1,17 +1,23 @@
-import React from 'react';
+import React, {useEffect, useState} from 'react';
 import {Product} from "../helpers/productHelper";
 import './productCardStyles.css';
 
 const ProductCard = (props: { product: Product; }) => {
 
+  const [currentIndex, setCurrentIndex] = useState(0); // Initial image index
+
+  useEffect(() => {
+    const intervalId = setInterval(() => {
+      setCurrentIndex((prevIndex) => (prevIndex + 1) % props.product.photos.length);
+    }, 5000);
+
+    return () => clearInterval(intervalId);
+  }, [props.product.photos.length]);
+
   return (
     <div className="product-card">
       <div>
-        {/*{props.product.photos.map((photo: string | undefined, index: React.Key | null | undefined) => (*/}
-        {/*  // <img key={index} src={photo} alt={`Photo ${index}`}/>*/}
-        {/*  <img key={index} src={photo}/>*/}
-        {/*))}*/}
-        <img src={props.product.photos[0]} alt={`Photo 1`}/>
+        <img key={currentIndex} src={props.product.photos[currentIndex]} alt={`Photo ${currentIndex}`}/>
       </div>
       <div className="product-info">
         <h4 className="product-title">{props.product.name}</h4>
